@@ -35,12 +35,12 @@ label {
 }
 
 #haiku-line2 {
-  margin-left: 2.5rem;
+  margin-left: 2rem;
 }
 
 #haiku-date {
   color: var(--primary);
-  font-size: 2.2rem;
+  font-size: 1.8rem;
 }
 
 #haiku-source {
@@ -159,54 +159,6 @@ p {
   transform: translateY(0) !important;
 }
 
-/* begin: original D3 gist
-
-.node {
-  cursor: pointer;
-}
-
-.node:hover {
-  stroke: #000;
-  stroke-width: 1.5px;
-}
-
-.node--leaf {
-  fill: white;
-}
-
-.label {
-  font: 1.8rem "Helvetica Neue", Helvetica, Arial, sans-serif;
-  text-anchor: middle;
-  text-shadow: 0 1px 0 #fff, 1px 0 0 #fff, -1px 0 0 #fff, 0 -1px 0 #fff;
-}
-
-.label-small {
-  font: 1.3rem "Helvetica Neue", Helvetica, Arial, sans-serif;
-  text-anchor: middle;
-  text-shadow: 0 1px 0 #fff, 1px 0 0 #fff, -1px 0 0 #fff, 0 -1px 0 #fff;
-}
-
-.label-tiny {
-  font: 1.1rem "Helvetica Neue", Helvetica, Arial, sans-serif;
-  text-anchor: middle;
-  text-shadow: 0 1px 0 #fff, 1px 0 0 #fff, -1px 0 0 #fff, 0 -1px 0 #fff;
-}
-
-.label-micro {
-  font: 0.8rem "Helvetica Neue", Helvetica, Arial, sans-serif;
-  text-anchor: middle;
-  text-shadow: 0 1px 0 #fff, 1px 0 0 #fff, -1px 0 0 #fff, 0 -1px 0 #fff;
-}
-
-.label,
-.node--root,
-.node--leaf {
-  pointer-events: none;
-}
-*/
-
-/* end: original D3 gist */
-
 /*
   -------------------- layout
 */
@@ -217,11 +169,12 @@ p {
 .container {
   display: grid;
   grid-template-columns: repeat(4, 25%);
-  grid-template-rows: 50px 3px 950px;
+  grid-template-rows: 50px 200px 350px 300px;
   grid-template-areas:
     "header header header header"
     ". . . ."
-    "content content content content";
+    "content content content content"
+    "footer footer footer footer";
 }
 
 .header {
@@ -233,6 +186,14 @@ p {
   flex-direction: column;
   grid-area: content;
   align-items: center;
+  gap: 3rem;
+}
+
+.footer {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  grid-area: footer;
 }
 
 .my-data-viz {
@@ -249,36 +210,6 @@ p {
   cursor: pointer;
 }
 
-/* CSS */
-#next-button {
-  font-family: "Montserrat", sans-serif;
-  background-color: var(--primary);
-  border-radius: 8px;
-  border-style: none;
-  box-sizing: border-box;
-  color: var(--background);
-  cursor: pointer;
-  display: inline-block;
-  font-size: 2rem;
-  font-weight: 500;
-  height: 2.4rem;
-  line-height: 1rem;
-  margin: 0;
-  outline: none;
-  padding: 10px 16px;
-  text-align: center;
-  text-decoration: none;
-  transition: color 100ms;
-  vertical-align: baseline;
-  touch-action: manipulation;
-}
-
-#next-button:hover,
-#next-button:focus {
-  background-color: var(--primary-darker);
-  color: var(--background);
-}
-
 /*
     is min-width >= 75rem ? i.e. desktop, not mobile
 */
@@ -286,7 +217,7 @@ p {
   .container {
     display: grid;
     grid-template-columns: repeat(4, 25%);
-    grid-template-rows: 40px 5px 80vh 10vh;
+    grid-template-rows: 40px 100px 50vh 40vh;
     grid-template-areas:
       "header header header header"
       ". . . ."
@@ -294,30 +225,23 @@ p {
       "footer footer footer footer";
   }
 
+  /*
+  .content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    grid-area: content;
+  }
+
+  #haiku-info {
+    align-self: flex-start;
+  }
+  */
+
   .content {
     display: flex;
     flex-direction: row;
     justify-content: space-around;
     grid-area: content;
   }
-
-  .footer {
-    display: flex;
-    flex-direction: row;
-    justify-content: center;
-    grid-area: footer;
-  }
-
-  /*
-  p,
-  label {
-    color: var(--primary);
-    font-size: 1.2rem;
-  }
-
-  h1 {
-    color: var(--primary);
-    font-size: 1.6rem;
-  }
-  */
 }
