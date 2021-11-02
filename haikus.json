@@ -1,0 +1,221 @@
+{
+    "name": "haikus",
+    "children": [
+        {
+            "date": "April 2021",
+            "honourific": "",
+            "name": "Karla Bernard",
+            "line1": "I'm wondering if",
+            "line2": "you can explain the jump on",
+            "line3": "the equipment line.",
+            "source": "https://docs.assembly.pe.ca/download/dms?objectId=d3e74fc6-fa11-4f41-9bf5-e28b79ab7c6c&fileName=Hansard-8%20April%202021.pdf"
+        },
+        {
+            "date": "April 2021",
+            "honourific": "Premier",
+            "name": "Dennis King",
+            "line1": "Welcome back to all",
+            "line2": "of my colleagues after",
+            "line3": "an extended weekend.",
+            "source": "https://docs.assembly.pe.ca/download/dms?objectId=40b69c90-e8e4-4ce9-b71d-c4f6144022dd&fileName=Hansard-6%20April%202021.pdf"
+        },
+        {
+            "date": "June 2020",
+            "honourific": "Premier",
+            "name": "Dennis King",
+            "line1": "COWS are opening",
+            "line2": "their stores in Cavendish and",
+            "line3": "Avonlea Village.",
+            "source": "https://docs.assembly.pe.ca/download/dms?objectId=3af010f8-a32e-4291-b78d-227234736c90&fileName=Hansard%20-%2019%20June%202020.pdf"
+        },
+        {
+            "date": "June 2020",
+            "honourific": "",
+            "name": "Karla Bernard",
+            "line1": "There is not even a",
+            "line2": "plaque that I can stumble on",
+            "line3": "while out for a walk.",
+            "source": "https://docs.assembly.pe.ca/download/dms?objectId=8db4ad20-2169-45dc-980e-34c67cf3d94e&fileName=Hansard%20-%204%20June%202020.pdf"
+        },
+        {
+            "date": "November 2019",
+            "honourific": "",
+            "name": "Kelly Cull",
+            "line1": "We almost need to",
+            "line2": "turn back the clock to where we",
+            "line3": "were five years ago.",
+            "source": "https://docs.assembly.pe.ca/download/dms?objectId=c3945a7a-e2ee-47a6-8465-d8b2c01cb336&fileName=19%20November%202019-Hansard.pdf"
+        },
+        {
+            "date": "July 2019",
+            "honourific": "",
+            "name": "Michele Beaton",
+            "line1": "You and I had a",
+            "line2": "side conversation about",
+            "line3": "the paint on the roads.",
+            "source": "https://docs.assembly.pe.ca/download/dms?objectId=e02cbc30-04f5-48a0-abe1-92f7ba4dee3d&fileName=2%20July%202019-Hansard_1.pdf"
+        },
+        {
+            "date": "June 2019",
+            "honourific": "Premier",
+            "name": "Dennis King",
+            "line1": "It's a big few days",
+            "line2": "for the Roche family from",
+            "line3": "the Seven Mile Road.",
+            "source": "https://docs.assembly.pe.ca/download/dms?objectId=280141ec-c42a-4d76-b46e-e7de2e759b2c&fileName=28%20June%202019-Hansard.pdf"
+        },
+        {
+            "date": "June 2019",
+            "honourific": "",
+            "name": "James Aylward",
+            "line1": "Public health nursing",
+            "line2": "starts following our Island",
+            "line3": "children right from birth.",
+            "source": "https://docs.assembly.pe.ca/download/dms?objectId=ca267008-fbef-46ea-8e93-abe34bbea8c0&fileName=27%20June%202019-Hansard_1.pdf"
+        },
+        {
+            "date": "June 2019",
+            "honourific": "",
+            "name": "Hal Perry",
+            "line1": "Would the committee",
+            "line2": "give permission to bring a",
+            "line3": "stranger on the floor?",
+            "source": "https://docs.assembly.pe.ca/download/dms?objectId=3125a590-8a39-4688-b0d9-e737126b12cd&fileName=20%20June%202019-Hansard_1.pdf"
+        },
+        {
+            "date": "June 2019",
+            "honourific": "",
+            "name": "Robert Mitchell",
+            "line1": "In recent days there's",
+            "line2": "been talk in this House about ",
+            "line3": "collaboration.",
+            "source": "https://docs.assembly.pe.ca/download/dms?objectId=3125a590-8a39-4688-b0d9-e737126b12cd&fileName=20%20June%202019-Hansard_1.pdf"
+        },
+        {
+            "date": "April 2018",
+            "honourific": "",
+            "name": "Robert Henderson",
+            "line1": "I had some neighbours",
+            "line2": "that got caught in that very",
+            "line3": "same situation.",
+            "source": "https://docs.assembly.pe.ca/download/dms?objectId=4db3538f-0c84-4e1d-b930-5f0c5490ac4c&fileName=2018-04-12-hansard.pdf"
+        },
+        {
+            "date": "April 2018",
+            "honourific": "Dr.",
+            "name": "Peter Bevan-Baker",
+            "line1": "We have Jeff McCourt",
+            "line2": "in New Glasgow producing",
+            "line3": "beautiful Gouda.",
+            "source": "https://docs.assembly.pe.ca/download/dms?objectId=64d1796e-aac3-4f93-92d5-00343556651d&fileName=2018-04-10-hansard.pdf"
+        },
+        {
+            "date": "November 2017",
+            "honourific": "",
+            "name": "Tina Mundy",
+            "line1": "Communities and",
+            "line2": "various sectors also",
+            "line3": "have a part to play.",
+            "source": "https://docs.assembly.pe.ca/download/dms?objectId=bef56fec-baab-4034-a623-02b22ac875af&fileName=2017-11-16-hansard.pdf"
+        },
+        {
+            "date": "November 2017",
+            "honourific": "",
+            "name": "Sidney MacEwen",
+            "line1": "What did you do to",
+            "line2": "plan for this ordeal and this",
+            "line3": "lack of coverage?",
+            "source": "https://docs.assembly.pe.ca/download/dms?objectId=a5830ffd-d67b-4523-80a0-0ef2fbda230f&fileName=2017-11-15-hansard.pdf"
+        },
+        {
+            "date": "May 2017",
+            "honourific": "Dr.",
+            "name": "Peter Bevan-Baker",
+            "line1": "Have you looked at the",
+            "line2": "Charter of Rights and human",
+            "line3": "right violations?",
+            "source": "https://docs.assembly.pe.ca/download/dms?objectId=7a2cda06-3ca2-4bbf-a382-e840be17dac4&fileName=2017-05-04-hansard.pdf"
+        },
+        {
+            "date": "November 2016",
+            "honourific": "",
+            "name": "Robert Mitchell",
+            "line1": "Everybody is",
+            "line2": "going to be on their toes",
+            "line3": "today for certain.",
+            "source": "https://docs.assembly.pe.ca/download/dms?objectId=520d38ad-c1c4-4c03-9fa7-eabf1c75fb47&fileName=2016-11-18-hansard.pdf"
+        },
+        {
+            "date": "April 2016",
+            "honourific": "",
+            "name": "Robert Henderson",
+            "line1": "There are a number",
+            "line2": "of reasons why adults need",
+            "line3": "to be immunized.",
+            "source": "https://docs.assembly.pe.ca/download/dms?objectId=27e9dee3-202c-4b0a-ad07-15ef9feec52d&fileName=2016-04-27-hansard.pdf"
+        },
+        {
+            "date": "April 2016",
+            "honourific": "",
+            "name": "Richard Brown",
+            "line1": "The family is",
+            "line2": "an important issue in",
+            "line3": "population growth.",
+            "source": "https://docs.assembly.pe.ca/download/dms?objectId=cc7fa624-309c-480e-a717-e4d7cbfd65d2&fileName=2016-04-26-hansard.pdf"
+        },
+        {
+            "date": "November 2015",
+            "honourific": "",
+            "name": "Brad Trivers",
+            "line1": "I'm just wondering",
+            "line2": "what is the main role of a",
+            "line3": "deputy sheriff.",
+            "source": "https://docs.assembly.pe.ca/download/dms?objectId=6925e96e-ce71-4137-8b5f-051ae37e339c&fileName=2015-11-13-hansard.pdf"
+        },
+        {
+            "date": "July 2015",
+            "honourific": "",
+            "name": "Steven Myers",
+            "line1": "I have quite a list",
+            "line2": "of things I want to buzz through",
+            "line3": "here really quickly.",
+            "source": "https://docs.assembly.pe.ca/download/dms?objectId=0d753d4b-6ab1-4b52-8294-db2a511c95c8&fileName=2015-07-03-hansard.pdf"
+        },
+        {
+            "date": "November 2014",
+            "honourific": "",
+            "name": "James Alyward",
+            "line1": "Prince Edward Island",
+            "line2": "has the potential to make",
+            "line3": "a major impact.",
+            "source": "https://docs.assembly.pe.ca/download/dms?objectId=3215e814-2d34-48cc-9fa1-d037f1b7d1b0&fileName=2014-11-27-hansard.pdf"
+        },
+        {
+            "date": "November 2014",
+            "honourific": "Premier",
+            "name": "Robert Ghiz",
+            "line1": "We know that tonight",
+            "line2": "there could be some inclement",
+            "line3": "weather on the way.",
+            "source": "https://docs.assembly.pe.ca/download/dms?objectId=90ea5330-a5b1-42d3-893a-547151298ccb&fileName=2014-11-26-hansard.pdf"
+        },
+        {
+            "date": "May 2014",
+            "honourific": "",
+            "name": "Colin McVie",
+            "line1": "Last night on Compass",
+            "line2": "you told Island fishers that",
+            "line3": "they were on their own.",
+            "source": "https://docs.assembly.pe.ca/download/dms?objectId=058936ec-f7aa-409a-a2d9-3a1029adda72&fileName=2014-05-13-hansard.pdf"
+        },
+        {
+            "date": "April 2014",
+            "honourific": "",
+            "name": "Valerie Docherty",
+            "line1": "The ticket when it",
+            "line2": "was made was made for me to",
+            "line3": "arrive on Monday.",
+            "source": "https://docs.assembly.pe.ca/download/dms?objectId=cae4e8b5-8c04-4a0b-8f4b-9317a9f661cd&fileName=2014-04-15-hansard.pdf"
+        }
+    ]
+}
