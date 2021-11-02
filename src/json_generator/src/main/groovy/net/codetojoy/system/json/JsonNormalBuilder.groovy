@@ -10,7 +10,7 @@ class JsonNormalBuilder extends BaseBuilder {
 
     def buildDate(def dateStr) {
        def oldFormat = new SimpleDateFormat("dd-MMM-yyyy", Locale.US);
-       def newFormat = new SimpleDateFormat("dd MMMM, yyyy", Locale.US);
+       def newFormat = new SimpleDateFormat("MMMM yyyy", Locale.US);
        def date = oldFormat.parse(dateStr)
        def newDateStr = newFormat.format(date)
        return newDateStr
