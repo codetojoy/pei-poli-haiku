@@ -23,7 +23,6 @@ export function chooseRandomHaiku() {
   const i = getRandom(0, numHaikus - 1);
   haiku = haikus[i];
   updateUI(haiku);
-  console.log(haiku);
 }
 
 export function chooseInitialHaiku() {
@@ -31,7 +30,6 @@ export function chooseInitialHaiku() {
     .then((response) => response.json())
     .then((jsonData) => {
       haikus = jsonData.children;
-      console.log(haikus);
       chooseRandomHaiku();
     });
 }
@@ -39,7 +37,6 @@ export function chooseInitialHaiku() {
 // ----------------- DOM/event handlers
 
 function nextHandler(event) {
-  console.log(`clicked`);
   chooseRandomHaiku();
 }
 
