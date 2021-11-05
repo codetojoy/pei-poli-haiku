@@ -32,6 +32,7 @@ label {
 #haiku-line3 {
   color: var(--primary);
   font-size: 3rem;
+  font-style: italic;
 }
 
 #haiku-line2 {
